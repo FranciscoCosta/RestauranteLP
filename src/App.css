@@ -77,16 +77,13 @@
   font-size: 23px;
 }
 
-.headtext__poppins{
+.headtext__poppins {
   font-family: var(--font-base);
   color: var(--color-golden);
-  font-weight: 700;
+  font-size: 64px;
+  line-height: 83.2px;
   letter-spacing: 0.04em;
   text-transform: capitalize;
-  font-feature-settings: 'tnum' on, 'lnum' on;
-  line-height: 70px;
-  font-size: 55px;
-  padding: 1rem;
 }
 
 .custom__button {
