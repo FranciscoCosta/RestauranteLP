@@ -65,7 +65,7 @@
 
 .app__navbar-smallscreen_overlay {
     position: fixed;
-    width: 90%;
+    width: 100%;
     top: 0;
     right: 0;
     height: 100vh;
